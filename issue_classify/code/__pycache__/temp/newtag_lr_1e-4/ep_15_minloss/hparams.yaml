@@ -1,0 +1,5 @@
+disablefinetune: false
+local_model: true
+model_name: t5-base
+num_classes: 4
+use_sequence: true

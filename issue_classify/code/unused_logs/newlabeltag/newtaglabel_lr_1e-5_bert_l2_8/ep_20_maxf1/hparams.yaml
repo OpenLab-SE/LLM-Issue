@@ -1,0 +1,5 @@
+disablefinetune: false
+local_model: true
+model_name: bert-base-uncased
+num_classes: 5
+use_sequence: true
